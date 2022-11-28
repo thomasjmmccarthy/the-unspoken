@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/the-unspoken/static/css/main.c80ff0d4.css",
+    "main.js": "/the-unspoken/static/js/main.e61e9665.js",
+    "static/js/787.a9f9463b.chunk.js": "/the-unspoken/static/js/787.a9f9463b.chunk.js",
+    "static/media/unspoken-background.gif": "/the-unspoken/static/media/unspoken-background.397d147a7a1803d2b310.gif",
+    "static/media/unspoken-mobile-image.gif": "/the-unspoken/static/media/unspoken-mobile-image.abb87effb5090fe60f24.gif",
+    "static/media/PoiretOne-Regular.ttf": "/the-unspoken/static/media/PoiretOne-Regular.2d5fb32d52ffaed4fde4.ttf",
+    "static/media/unspoken-deco.png": "/the-unspoken/static/media/unspoken-deco.67a48de5028f798cd872.png",
+    "static/media/dramasoc-logo.png": "/the-unspoken/static/media/dramasoc-logo.316b334b7d3000fb9a04.png",
+    "static/media/Trochut-Regular.ttf": "/the-unspoken/static/media/Trochut-Regular.7512231c8b5504bd3c02.ttf",
+    "index.html": "/the-unspoken/index.html",
+    "main.c80ff0d4.css.map": "/the-unspoken/static/css/main.c80ff0d4.css.map",
+    "main.e61e9665.js.map": "/the-unspoken/static/js/main.e61e9665.js.map",
+    "787.a9f9463b.chunk.js.map": "/the-unspoken/static/js/787.a9f9463b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80ff0d4.css",
+    "static/js/main.e61e9665.js"
+  ]
+}
