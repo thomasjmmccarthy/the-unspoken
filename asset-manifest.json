@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b409c833.css",
-    "main.js": "/static/js/main.2de8469d.js",
+    "main.js": "/static/js/main.9f8af88d.js",
     "static/js/787.a9f9463b.chunk.js": "/static/js/787.a9f9463b.chunk.js",
+    "static/media/Thank-You.png": "/static/media/Thank-You.917157b1fc98e601fef9.png",
+    "static/media/show-images.png": "/static/media/show-images.2f95e25c425cfa546f98.png",
     "static/media/unspoken-background.gif": "/static/media/unspoken-background.397d147a7a1803d2b310.gif",
+    "static/media/the-team-bw.jpg": "/static/media/the-team-bw.417087f23a5f793327b4.jpg",
     "static/media/unspoken-mobile-image.gif": "/static/media/unspoken-mobile-image.abb87effb5090fe60f24.gif",
     "static/media/PoiretOne-Regular.ttf": "/static/media/PoiretOne-Regular.2d5fb32d52ffaed4fde4.ttf",
     "static/media/unspoken-deco.png": "/static/media/unspoken-deco.67a48de5028f798cd872.png",
@@ -11,11 +14,11 @@
     "static/media/Trochut-Regular.ttf": "/static/media/Trochut-Regular.7512231c8b5504bd3c02.ttf",
     "index.html": "/index.html",
     "main.b409c833.css.map": "/static/css/main.b409c833.css.map",
-    "main.2de8469d.js.map": "/static/js/main.2de8469d.js.map",
+    "main.9f8af88d.js.map": "/static/js/main.9f8af88d.js.map",
     "787.a9f9463b.chunk.js.map": "/static/js/787.a9f9463b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b409c833.css",
-    "static/js/main.2de8469d.js"
+    "static/js/main.9f8af88d.js"
   ]
 }
