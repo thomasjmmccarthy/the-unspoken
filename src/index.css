@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family:  'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    letter-spacing: 1px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  background-color: #0c0d10;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Trochut';
+  src: local('Trochut'), url('./resources/fonts/trochut/Trochut-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poiret';
+  src: local('Poiret'), url('./resources/fonts/poiret/PoiretOne-Regular.ttf') format('truetype');
+}
